@@ -30,6 +30,9 @@ summary.docx
 # Common text files that may contain data
 *.[tT][xX][tT]
 
+# Csv files
+*.[cC][sS][vV]*
+
 # Excel files
 *.[xX][lL][sS]*
 
@@ -48,3 +51,4 @@ summary.docx
 .Trashes
 ehthumbs.db
 Thumbs.db
+.Rproj.user
