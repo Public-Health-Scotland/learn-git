@@ -29,6 +29,7 @@ summary.docx
 
 # Common text files that may contain data
 *.[tT][xX][tT]
+*.[cC][sS][vV]
 
 # Csv files
 *.[cC][sS][vV]*
