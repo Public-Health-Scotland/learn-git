@@ -27,6 +27,9 @@ summary.docx
 *.jpg
 *.jpeg
 
+# CSV files
+*.[Cc][Ss][Vv]
+
 # Common text files that may contain data
 *.[tT][xX][tT]
 
@@ -48,3 +51,4 @@ summary.docx
 .Trashes
 ehthumbs.db
 Thumbs.db
+.Rproj.user
