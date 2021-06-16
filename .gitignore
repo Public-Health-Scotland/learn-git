@@ -14,8 +14,6 @@
 # R Environment Variables
 .Renviron
 
-# csv
-.csv
 
 # data folders #
 data/
@@ -42,6 +40,9 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
+# csv files
+*.[cC][sS][vV]
 
 # OS generated files
 .DS_Store
