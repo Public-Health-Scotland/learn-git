@@ -14,6 +14,9 @@
 # R Environment Variables
 .Renviron
 
+# csv
+.csv
+
 # data folders #
 data/
 trend/
