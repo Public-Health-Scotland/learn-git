@@ -14,6 +14,7 @@
 # R Environment Variables
 .Renviron
 
+
 # data folders #
 data/
 trend/
@@ -30,11 +31,15 @@ summary.docx
 # Common text files that may contain data
 *.[tT][xX][tT]
 
-# CSV files
+# CSV
 *.[cC][sS][vV]
 
 # Excel files
 *.[xX][lL][sS]*
+*.[cC][sS][vV]
+
+# CSV files
+*.[cC][sS][vV]*
 
 # SPSS formats
 *.[sS][aA][vV]
@@ -42,6 +47,9 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
+# csv files
+*.[cC][sS][vV]
 
 # OS generated files
 .DS_Store
