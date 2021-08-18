@@ -51,4 +51,5 @@ Thumbs.db
 .Rproj.user
 
 # All csv files
-*.csv
+#*.csv
+*.[cC][sS][vV]
