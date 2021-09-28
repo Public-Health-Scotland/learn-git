@@ -1,3 +1,6 @@
+# Add all csv files
+*.[cC][sS][vV]
+
 # History files
 .Rhistory
 .Rapp.history
@@ -32,7 +35,7 @@ summary.docx
 
 # Excel files
 *.[xX][lL][sS]*
-
+*.[cC][sS][vV]*
 # SPSS formats
 *.[sS][aA][vV]
 
@@ -51,5 +54,5 @@ Thumbs.db
 .Rproj.user
 
 #For exercise 3
-#ignor .csv files
+# CSV files
 *.[cC][sS][vV]
