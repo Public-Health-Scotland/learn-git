@@ -1,3 +1,6 @@
+# Add all csv files
+*.[cC][sS][vV]
+
 # History files
 .Rhistory
 .Rapp.history
