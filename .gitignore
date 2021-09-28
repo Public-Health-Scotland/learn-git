@@ -27,11 +27,18 @@ summary.docx
 *.jpg
 *.jpeg
 
+#CSV
+*.csv
+
 # Common text files that may contain data
 *.[tT][xX][tT]
 
 # Excel files
 *.[xX][lL][sS]*
+*.csv
+
+# CSV files
+*.csv
 
 # SPSS formats
 *.[sS][aA][vV]
@@ -50,6 +57,8 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+
 # All csv files
 #*.csv
 *.[cC][sS][vV]
+
