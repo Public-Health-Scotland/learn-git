@@ -40,6 +40,9 @@ summary.docx
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
 
+# CSV files
+*.[cC][sS][vV]
+
 # OS generated files
 .DS_Store
 .DS_Store?
