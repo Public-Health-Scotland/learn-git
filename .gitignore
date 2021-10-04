@@ -1,3 +1,6 @@
+# Add all csv files
+*.[cC][sS][vV]
+
 # History files
 .Rhistory
 .Rapp.history
@@ -10,6 +13,11 @@
 
 # RStudio files
 .Rproj.user/
+1 conflicting file
+.gitignore
+.gitignore
+.gitignore1 conflict  
+
 
 # R Environment Variables
 .Renviron
@@ -32,7 +40,7 @@ summary.docx
 
 # Excel files
 *.[xX][lL][sS]*
-
+*.[cC][sS][vV]*
 # SPSS formats
 *.[sS][aA][vV]
 
@@ -50,6 +58,11 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+
+
+
+
+#For exercise 3
 # CSV files
-*.[cC][vV][sS]*
+*.[cC][sS][vV]
 
