@@ -1,6 +1,6 @@
 # History files
-.Rhistory
-.Rapp.history
+#.Rhistory
+#.Rapp.history
 
 # Session Data files
 .RData
@@ -27,11 +27,14 @@ summary.docx
 *.jpg
 *.jpeg
 
+
 # CSV data files
 *.[cC][sS][vV]
 
+
 # Common text files that may contain data
 *.[tT][xX][tT]
+
 
 # Excel files
 *.[xX][lL][sS]*
@@ -39,9 +42,14 @@ summary.docx
 # SPSS formats
 *.[sS][aA][vV]
 
+
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
+# CSV data files
+*.csv
+*[cC][sS][vV]
 
 # OS generated files
 .DS_Store
