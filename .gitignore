@@ -28,6 +28,10 @@ summary.docx
 *.jpeg
 
 
+# CSV data files
+*.[cC][sS][vV]
+
+
 # Common text files that may contain data
 *.[tT][xX][tT]
 
@@ -38,8 +42,6 @@ summary.docx
 # SPSS formats
 *.[sS][aA][vV]
 
-#CSV
-*.csv
 
 # R data files
 *.[rR][dD][aA][tT][aA]
