@@ -1,6 +1,6 @@
 # History files
-.Rhistory
-.Rapp.history
+#.Rhistory
+#.Rapp.history
 
 # Session Data files
 .RData
@@ -28,7 +28,7 @@ summary.docx
 *.jpeg
 
 # Common text files that may contain data
-#*.[tT][xX][tT]
+*.[tT][xX][tT]
 *.[cC][sS][vV]
 
 # Excel files
