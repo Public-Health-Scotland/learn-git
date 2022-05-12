@@ -27,6 +27,9 @@ summary.docx
 *.jpg
 *.jpeg
 
+#csv files
+*.csv
+
 # Common text files that may contain data
 *.[tT][xX][tT]
 
