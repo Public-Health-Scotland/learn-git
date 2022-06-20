@@ -33,7 +33,7 @@ summary.docx
 # Excel files
 *.[xX][lL][sS]*
 
-#Comma Separated Files
+# Comma-separated value files
 *.[cC][sS][vV]*
 
 # SPSS formats
@@ -42,6 +42,7 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
 
 # OS generated files
 .DS_Store

@@ -1,5 +1,5 @@
 ## Activity
-
+ajkasjkfjksdf
 1. Go to GitHub repo
 2. Explore contents of repo
 3. Guided clone of repo
@@ -37,7 +37,7 @@
 
 
 ## Exercise 5
-
+sfhslkfskf
 1. Check your remotes, `git remote -v`, you should still be connected to the
 original GitHub remote.
 2. Push the changes from your named branch.
