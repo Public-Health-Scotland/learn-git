@@ -1,9 +1,9 @@
 ## Activity
 
-1. Go to GitHub repo
-This I hope is going to be a merge conflict
-3. Guided clone of repo
-4. Open project in RStudio and do nothing
+1. Go to GitHub repo.
+2. This I hope is going to be a merge conflict.
+3. Guided clone of repo.
+4. Open project in RStudio and do nothing.
 
 
 ## Exercise 1
