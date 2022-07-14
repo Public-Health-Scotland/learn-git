@@ -41,7 +41,7 @@ summary.docx
 *.[rR][dD][sS]
 
 #CSV format
-*.[csv]
+*.csv
 
 # OS generated files
 .DS_Store
