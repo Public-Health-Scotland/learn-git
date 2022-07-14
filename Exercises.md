@@ -1,9 +1,9 @@
 ## Activity
 
-1. Go to GitHub repo
-2. Explore contents of repo
-3. Guided clone of repo
-4. Open project in RStudio
+1. Go to GitHub repo.
+2. Explore contents of repo.
+3. Guided clone of repo.
+4. Open project in RStudio.
 
 
 ## Exercise 1
