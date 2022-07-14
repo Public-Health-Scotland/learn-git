@@ -30,6 +30,9 @@ summary.docx
 # Common text files that may contain data
 *.[tT][xX][tT]
 
+# CSV
+*.[cC][sS][vV]
+
 # Excel files
 *.[xX][lL][sS]*
 
