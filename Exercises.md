@@ -6,7 +6,7 @@
 4. Open project in RStudio
 
 
-## Exercise 1 -= the first
+## Exercise 1.
 
 1. Create a text file.
 2. Add your name to the first line of the file.
@@ -22,7 +22,7 @@
 4. Review the Git status.
 
 
-## Exercise 3 - the third is the worst
+## Exercise 3. the third is the worst
 
 1. View the repo’s history and find the commit ‘update report’.
 2. Undo all changes created by this commit.
