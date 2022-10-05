@@ -6,7 +6,7 @@
 4. Open project in RStudio
 
 
-## Exercise 1
+## Exercise 1 -= the first
 
 1. Create a text file.
 2. Add your name to the first line of the file.
@@ -14,7 +14,7 @@
 4. Stage and commit. Don’t forget your message.
 
 
-## Exercise 2
+## Exercise 2 -- two comes after one
 
 1. Create a CSV file with "<name>, <age>, <location>", saved as "<user_details>.csv".
 2. Change the .gitignore to ignore all CSV files.
@@ -22,21 +22,21 @@
 4. Review the Git status.
 
 
-## Exercise 3
+## Exercise 3 - the third is the worst
 
 1. View the repo’s history and find the commit ‘update report’.
 2. Undo all changes created by this commit.
 3. Check the status, stage and then commit with a meaningful message.
 
 
-## Exercise 4
+## Exercise 4 - fourth not again
 
 1. Create a new branch with your name as the branch name.
 2. Add a .txt file with a brief reflection on something you’ve learned/the course does well, and something you’d like to learn/the course could do better. Save as <name>_reflection.txt
 3. You guessed it, stage and commit!
 
 
-## Exercise 5
+## Exercise 5 - and end
 
 1. Check your remotes, `git remote -v`, you should still be connected to the
 original GitHub remote.
