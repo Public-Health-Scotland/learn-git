@@ -6,7 +6,7 @@
 4. Open project in RStudio
 
 
-## Exercise 1
+## Exercise 1.
 
 1. Create a text file.
 2. Add your name to the first line of the file.
@@ -14,7 +14,7 @@
 4. Stage and commit. Don’t forget your message.
 
 
-## Exercise 2
+## Exercise 2.
 
 1. Create a CSV file with "<name>, <age>, <location>", saved as "<user_details>.csv".
 2. Change the .gitignore to ignore all CSV files.
@@ -22,7 +22,7 @@
 4. Review the Git status.
 
 
-## Exercise 3
+## Exercise 3.
 
 1. View the repo’s history and find the commit ‘update report’.
 2. Undo all changes created by this commit.
