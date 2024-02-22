@@ -1,0 +1,7 @@
+The git learn course is a useful introduction to using git with R. I learned:
+- how to create and clone repositories
+- how .gitignore files work
+- creating new branches and how they are used 
+- and how version controls systems can be useful for collaboration.
+
+Although there was some precourse work to do that involved getting set up with git, setting up SSH keys and cloning the relevant repository, it might be helpful if we could include this as exercise 1 to get started on the same page.
