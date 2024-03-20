@@ -1,0 +1,2 @@
+Starting using git
+How to be extra sure you don't push anything onto Git that shouldn't be there
