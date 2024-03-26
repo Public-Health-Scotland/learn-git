@@ -48,4 +48,4 @@ Thumbs.db
 .Rproj.user
 
 # csv files
-.csv
+*.csv
