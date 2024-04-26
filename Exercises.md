@@ -32,7 +32,7 @@
 ## Exercise 4
 
 1. Create a new branch with your name as the branch name.
-2. Add a .txt file with a brief reflection on something you’ve learned/the course does well, and something you’d like to learn/the course could do better. Save as <name>_reflection.txt
+2. Add a .txt file with a brief reflection on something you’ve learned/the course does well, and something you’d like to learn/the course could do better. Save as Reflection.txt
 3. You guessed it, stage and commit!
 
 
@@ -42,3 +42,10 @@
 original GitHub remote.
 2. Push the changes from your named branch.
 3. Open a pull request on GitHub to merge your named branch with today’s dated branch. Add the trainer as your reviewer.
+
+
+## Activity
+
+1. Go to GitHub repo.
+2. Guided code review of pull requests
+3. Handle a git conflict.
