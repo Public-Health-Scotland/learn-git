@@ -33,6 +33,9 @@ summary.docx
 # SPSS formats
 *.[sS][aA][vV]
 
+# CSV files
+*.csv
+
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
