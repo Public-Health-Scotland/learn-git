@@ -1,39 +1,33 @@
 # History files
 .Rhistory
 .Rapp.history
-
 # Session Data files
 .RData
-
 # User-specific files
 .Ruserdata
-
 # RStudio files
 .Rproj.user/
-
 # R Environment Variables
 .Renviron
-
 # data folders #
 data/
 trend/
 output/
-
 # Markdown output
 summary.docx
-
 # Images
 *.png
 *.jpg
 *.jpeg
-
 # Excel files
 *.[xX][lL][sS]*
 *.[cC][sS][vV]*
 
+# CSV files
+*.[cC][sS][vV]
+
 # SPSS formats
 *.[sS][aA][vV]
-
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
@@ -47,4 +41,7 @@ summary.docx
 ehthumbs.db
 Thumbs.db
 .Rproj.user
+# CSV
+*.[cC][sS][vV]
 
+.csv
