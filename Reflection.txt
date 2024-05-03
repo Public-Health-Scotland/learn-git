@@ -1,0 +1,2 @@
+- how to check the commits' history using R interface or terminal
+- How different branches interact with the main branch and other branches
