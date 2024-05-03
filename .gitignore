@@ -21,8 +21,10 @@ summary.docx
 *.jpeg
 # Excel files
 *.[xX][lL][sS]*
+
 # CSV files
 *.[cC][sS][vV]
+
 # SPSS formats
 *.[sS][aA][vV]
 # R data files
