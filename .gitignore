@@ -36,6 +36,7 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+*.[cC][sS][vV]
 
 # OS generated files
 .DS_Store
