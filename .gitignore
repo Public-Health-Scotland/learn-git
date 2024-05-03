@@ -30,6 +30,7 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -42,3 +43,4 @@ Thumbs.db
 # CSV
 *.[cC][sS][vV]
 
+.csv
