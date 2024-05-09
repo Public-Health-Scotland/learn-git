@@ -22,6 +22,9 @@ output/
 # Markdown output
 summary.docx
 
+# CSV files
+*.csv
+
 # Images
 *.png
 *.jpg
