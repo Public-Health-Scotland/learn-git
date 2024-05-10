@@ -27,6 +27,9 @@ summary.docx
 *.jpg
 *.jpeg
 
+# CSV files
+*.[cC][sS][vV]
+
 # Excel files
 *.[xX][lL][sS]*
 
@@ -49,3 +52,4 @@ Thumbs.db
 
 # CSV files
 *.[cC][sS][vV]
+
