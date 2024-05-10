@@ -48,4 +48,4 @@ Thumbs.db
 .Rproj.user
 
 # ignore csv files
-*.csv
+*.[cC][sS][vV]
