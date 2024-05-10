@@ -50,5 +50,7 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+
 # ignore csv files
 *.[cC][sS][vV]
+
