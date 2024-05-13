@@ -19,4 +19,4 @@ summary(cars)
 
 ## Section to be removed
 
-This section should be removed as part of exercise 3.
+
