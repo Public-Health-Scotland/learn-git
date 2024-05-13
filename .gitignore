@@ -47,6 +47,10 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+<<<<<<< victoria
 # csv files
+=======
+#csv files
+>>>>>>> c6-13/05/24
 *.csv
 

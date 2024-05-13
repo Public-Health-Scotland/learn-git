@@ -17,3 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+<<<<<<< victoria
+=======
+
+>>>>>>> c6-13/05/24

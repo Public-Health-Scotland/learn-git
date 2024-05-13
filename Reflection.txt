@@ -1,1 +1,5 @@
+<<<<<<< victoria
 I've learned how to search through the history for changes.
+=======
+Hi!
+>>>>>>> c6-13/05/24
