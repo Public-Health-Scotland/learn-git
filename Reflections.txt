@@ -1,0 +1,2 @@
+#learnt how useful Git is for muiltiple people working on the same doc and tracking changes
+still find it difficult to use
