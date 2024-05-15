@@ -27,6 +27,9 @@ summary.docx
 *.jpg
 *.jpeg
 
+# CSV files
+*.csv
+
 # Excel files
 *.[xX][lL][sS]*
 *.[cC][sS][vV]
@@ -37,6 +40,9 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
+# CSV files
+*.csv
 
 # OS generated files
 .DS_Store
