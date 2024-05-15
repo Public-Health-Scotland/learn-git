@@ -1,0 +1,3 @@
+I think this course does a great job at explaining the basic principles of 
+version control, using simple examples to explain what (can often be) difficult
+concepts. :)
