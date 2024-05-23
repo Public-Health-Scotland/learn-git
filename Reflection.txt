@@ -1,4 +1,5 @@
 
 how to go back to old code and best practice - currently we all work straight on the main branch!
 
+This course made me think!
 learned lots about git, like diff and checkout! 
