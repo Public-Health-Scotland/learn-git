@@ -1,6 +1,10 @@
+# csv files
+*.csv
+
 # History files
 .Rhistory
 .Rapp.history
+
 # Session Data files
 .RData
 # User-specific files
@@ -21,6 +25,7 @@ summary.docx
 *.jpeg
 # Excel files
 *.[xX][lL][sS]*
+
 # SPSS formats
 *.[sS][aA][vV]
 # R data files
