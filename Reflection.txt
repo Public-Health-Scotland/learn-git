@@ -1,1 +1,2 @@
+This course made me think!
 learned lots about git, like diff and checkout! 
