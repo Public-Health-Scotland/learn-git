@@ -1,5 +1,5 @@
 # csv files
-.csv
+*.csv
 
 # History files
 .Rhistory
