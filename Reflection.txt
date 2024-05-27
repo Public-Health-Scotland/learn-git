@@ -1,0 +1,1 @@
+git is useful and might stop me from creating 1 million copies of my code when trying out new features and breaking everything
