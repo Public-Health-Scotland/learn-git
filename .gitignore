@@ -27,6 +27,9 @@ summary.docx
 *.jpg
 *.jpeg
 
+# CSV files
+*.csv
+
 # Excel files
 *.[xX][lL][sS]*
 *.csv
