@@ -1,1 +1,4 @@
+julia_romero
 Reflection
+learned how to look through the past commit log using Posit interface
+c11-30/05/24
