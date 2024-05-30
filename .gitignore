@@ -28,7 +28,8 @@ summary.docx
 *.jpeg
 
 # Excel files
-*.[xX][lL][sS][csv]*
+*.[xX][lL][sS]*
+*.[cC][sS][vV]
 
 # SPSS formats
 *.[sS][aA][vV]
