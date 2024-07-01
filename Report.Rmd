@@ -9,12 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is an example R Markdown document to be used in the Introduction to Git training course. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 These are the changes I want to make 
-....
+
+testing
+
+
 ```{r cars}
 summary(cars)
 ```
