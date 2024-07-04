@@ -1,1 +1,2 @@
+This course is far less boring than I thought it would be!
 I have learned how to clone a repository, commit changes and open a new branch.
