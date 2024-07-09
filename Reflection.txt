@@ -1,0 +1,1 @@
+I've learned how the git functionality can be used inside the terminal in Posit.
