@@ -31,6 +31,9 @@ summary.docx
 *.[xX][lL][sS]*
 *.csv 
 
+# csv
+.csv
+
 # SPSS formats
 *.[sS][aA][vV]
 
@@ -48,3 +51,5 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+# csv files
+*.csv 
