@@ -1,3 +1,9 @@
 I have learned how to make a branch
 
-Git terms are less daunting now
+
+I knew most of it already, but it was nice to be reminded how to access it in Posit again. Also, you're awesome.
+
+
+
+
+
