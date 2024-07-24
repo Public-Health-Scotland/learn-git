@@ -1,1 +1,2 @@
-how to access version history and change it
+
+Git terms are less daunting now
