@@ -1,0 +1,3 @@
+I very much appreciated the refresher on how to access Git in Posit Workbench.
+
+Also, if you're reading this, you are awesome.
