@@ -1,3 +1,1 @@
-I very much appreciated the refresher on how to access Git in Posit Workbench.
-
-Also, if you're reading this, you are awesome.
+I knew most of it already, but it was nice to be reminded how to access it in Posit again. Also, you're awesome.
