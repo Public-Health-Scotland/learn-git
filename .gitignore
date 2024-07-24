@@ -5,9 +5,6 @@
 # Session Data files
 .RData
 
-#CSV
-.csv
-
 
 # User-specific files
 .Ruserdata
@@ -33,6 +30,9 @@ summary.docx
 
 # Excel files
 *.[xX][lL][sS]*
+
+#csv 
+*.[Cc][SsS][vV]
 
 # SPSS formats
 *.[sS][aA][vV]
