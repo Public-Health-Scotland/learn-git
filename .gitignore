@@ -31,6 +31,9 @@ summary.docx
 *.[xX][lL][sS]*
 *.csv
 
+#CSV files
+*.csv
+
 # SPSS formats
 *.[sS][aA][vV]
 
