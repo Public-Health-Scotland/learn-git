@@ -29,6 +29,7 @@ summary.docx
 
 # Excel files
 *.[xX][lL][sS]*
+*.csv
 
 #CSV files
 *.csv
@@ -50,3 +51,5 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+# csv files
+*.csv
