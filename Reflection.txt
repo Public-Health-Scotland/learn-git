@@ -1,0 +1,1 @@
+refresher of all the git details and some terminal commands.
