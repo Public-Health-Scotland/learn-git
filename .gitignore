@@ -1,3 +1,7 @@
+# csv
+*.csv
+
+
 # History files
 .Rhistory
 .Rapp.history
@@ -36,6 +40,9 @@ summary.docx
 # R data files
 *.[rR][dD][aA][tT][aA]
 *.[rR][dD][sS]
+
+# CSV formats
+*.[cC][sS][vV]
 
 # OS generated files
 .DS_Store
