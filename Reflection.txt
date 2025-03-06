@@ -1,0 +1,1 @@
+Learned how to commit changes I've made but also how to undo changes from previous commits.
