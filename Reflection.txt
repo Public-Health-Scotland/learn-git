@@ -1,5 +1,9 @@
+
+Version control with Git is very useful and spelling is important.
+
 I never knew you could create a branch by clicking the purple icon.
 
 decent pace
 
 You guys have been a great cohort :)
+
