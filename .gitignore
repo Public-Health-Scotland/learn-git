@@ -47,3 +47,6 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
+
+# thurs 13th ignore all csv
+*.csv
