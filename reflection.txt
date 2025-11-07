@@ -1,0 +1,4 @@
+# Reflection
+I have learnt new things in the training:
+- how to use $git log to check history 
+- what hash is in git (40-character string unique commit name assigned by git)
