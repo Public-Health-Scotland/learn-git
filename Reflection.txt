@@ -1,1 +1,2 @@
-Very cold today
+Learned that Git can be temperamental!
+
